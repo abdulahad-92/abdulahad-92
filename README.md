@@ -50,9 +50,6 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Data_cleansing" target="_blank" rel="noreferrer">
-    <span style="font-size: 14px; color: #0366d6;">Data Cleaning</span>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
