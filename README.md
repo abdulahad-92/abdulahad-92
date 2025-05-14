@@ -48,7 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://icons8.com/icon/430/microsoft-excel-2019](https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
