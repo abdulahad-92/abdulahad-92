@@ -12,7 +12,6 @@
 - 💬 Ask me about **react, node, mongo**
 
 - 📫 How to reach me **abdulahadchachar92@gmail.com**
-- 
 - 📫 Checkout my portfolio at <a href="https://abdulahad-92.github.io/">abdulahad-92.github.io</a>
   
 
